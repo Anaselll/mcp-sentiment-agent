@@ -9,6 +9,9 @@ python_version: '3.13'
 app_file: server/app.py
 pinned: false
 ---
+# hugging face space config 
+
+
 # MCP Sentiment Analyzer
 
 A minimal Model Context Protocol (MCP) tool for sentiment analysis. This repository demonstrates how to expose a sentiment analysis function (using `TextBlob`) as an MCP server via Gradio, and how to consume it using an AI agent framework (`smolagents`).
